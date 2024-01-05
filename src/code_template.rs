@@ -180,3 +180,5 @@ async fn main() -> std::io::Result<()> {
     .run()
     .await
 }
+
+//Rust web server with actix-web boilerplate
