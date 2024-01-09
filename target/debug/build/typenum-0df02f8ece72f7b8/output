@@ -1,3 +1,3 @@
 cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/christian/Documents/rust-web-server-template/target/debug/build/typenum-0df02f8ece72f7b8/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/christian/Documents/rust-web-server-template/target/debug/build/typenum-0df02f8ece72f7b8/out/op.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/christian/Documents/web-server-boilerplate/target/debug/build/typenum-0df02f8ece72f7b8/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/christian/Documents/web-server-boilerplate/target/debug/build/typenum-0df02f8ece72f7b8/out/op.rs
